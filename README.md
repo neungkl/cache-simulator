@@ -1,7 +1,7 @@
 Cache Simulator
 ===
 
-This is a homework for 2110352 Computer System Architecture class.
+Cache simulator for 2110352 Computer System Architecture homework, included direct mapped and N-way association algorithm implemented.
 
 <img src="git/graph-associative.png" width="600">
 
